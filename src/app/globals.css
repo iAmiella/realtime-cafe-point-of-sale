@@ -131,4 +131,8 @@
   html {
     @apply font-sans;
   }
+  .react-flow__node {
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
 }
